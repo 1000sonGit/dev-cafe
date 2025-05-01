@@ -15,7 +15,7 @@
 
 <br>
 
-O projeto 'Cafeteria do Dev' é uma aplicação web desenvolvida utilizando HTML, CSS e JavaScript. Nosso principal objetivo é entregar um projeto bonito e funcional para o nosso cliente, adaptado a qualquer tipo de tela. Este projeto foi criado para apresentar no clube do portfólio no qual apresento e ensino os alunos a desenvolverem.
+O projeto 'Cafeteria do Dev' é uma aplicação web desenvolvida utilizando HTML, CSS e JavaScript. Nosso principal objetivo é entregar um projeto bonito e funcional para o nosso cliente, adaptado a qualquer tipo de tela.
 
 ---
 
