@@ -2,12 +2,12 @@
 <br>
 
 > Home Page
-> <br> <img src="./img/homePage.png" alt="image-home">
+> <br> <img src="./assets/homePage.png" alt="image-home">
 
 <br>
 
 > Services Page
-> <br> <img src="./img/servicePage.png" alt="image-service">
+> <br> <img src="./assets/servicePage.png" alt="image-service">
 
 <br>
 
@@ -29,7 +29,7 @@ O projeto 'Cafeteria do Dev' é uma aplicação web desenvolvida utilizando HTML
   <tr>
       <td align="center">
           <a href="#">
-                <img src="./img/devclub.png" width="150px;" alt="Logo DevClub"/><br>
+                <img src="./assets/devclub.png" width="150px;" alt="Logo DevClub"/><br>
                 <sub>
                 <b>Teacher Isaque e alunos</b>
                 </sub>
